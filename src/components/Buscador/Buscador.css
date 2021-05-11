@@ -1,0 +1,65 @@
+
+.form-container {
+    align-items:center;
+    margin-top: 40px;
+    margin-left: 90px;
+    margin-right: 80px;
+
+    
+    
+
+}
+
+.form-container button {
+    margin-top: 20px;
+    margin-left: 310px;
+    background-color:#b50000;
+    color:white;
+
+}
+.label {
+    align-items:center;
+    padding-right: 10px;
+    font-size: 24px;
+    font-weight: bolder;
+    
+
+}
+.boton {
+    padding: .5rem;
+    margin-top: .5rem;
+    border-radius: 4px;
+    background-color: #e50914;
+  }
+  
+  .boton:hover {
+    background-color:#ffdbdb;
+    color: black;
+  }
+.movies{
+    margin-left: 50px;
+    background-color:#ffdbdb;
+    font-size: 22px;
+ 
+   
+}
+.movies:hover{
+    background-color: #ffbfd3    
+}
+.fav{
+    display: flex;
+    margin-left: 50px;
+    margin-block-start: 20px;
+    background-color:#d46e6e;
+    font-size:small;
+    margin-block-end: 40px;
+
+}
+.fav:hover{
+    background-color:#34eb8c
+}
+
+.holder{
+    margin-left: 0px;
+    font-size: 22px;
+}
